@@ -1,7 +1,6 @@
-# Next
+## Next
 
 [Next.js study](https://nomadcoders.co/nextjs-fundamentals)
-[→ repository](https://github.com/nomadcoders/nextjs-fundamentals)
 
 `$ npx create-next-app@latest`<br/>
 `$ npm run dev`
